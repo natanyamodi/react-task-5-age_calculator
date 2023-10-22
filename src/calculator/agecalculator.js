@@ -1,7 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import React, { useState } from 'react';
 import './calc.css';
-import '../App.cs'
+import '../App.js'
 
 function AgeCalculator() {
   const [birthDate, setBirthDate] = useState('');
